@@ -1,0 +1,45 @@
+From 70bccee1e904c89b82651e1484853b2d3987e7c8 Mon Sep 17 00:00:00 2001
+From: Mohanapriya2828 <mohanapriya.jayabalan@psiog.com>
+Date: Fri, 26 Sep 2025 10:01:57 +0530
+Subject: [PATCH] patch commit
+
+---
+ 0002-patch-commit.patch | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
+ create mode 100644 0002-patch-commit.patch
+
+diff --git a/0002-patch-commit.patch b/0002-patch-commit.patch
+new file mode 100644
+index 0000000..b9bc310
+--- /dev/null
++++ b/0002-patch-commit.patch
+@@ -0,0 +1,26 @@
++From 426e00760179e9e1c19b805d11bd77dec1a0c671 Mon Sep 17 00:00:00 2001
++From: Mohanapriya2828 <mohanapriya.jayabalan@psiog.com>
++Date: Fri, 26 Sep 2025 10:01:57 +0530
++Subject: [PATCH 2/2] patch commit
++
++---
++ index.html | 3 +--
++ 1 file changed, 1 insertion(+), 2 deletions(-)
++
++diff --git a/index.html b/index.html
++index 626cf59..964188a 100644
++--- a/index.html
+++++ b/index.html
++@@ -5,8 +5,7 @@
++   <title>My Project</title> 
++ </head> 
++ <body> 
++-  <p>Git Learning</p> 
++-
+++  <p>Git command Learning</p> 
++   <p>It helps to keep track of the code</p>
++   <p>It is a version controlling system</p> 
++ 
++-- 
++2.50.1.windows.1
++
+-- 
+2.50.1.windows.1
+

@@ -1,0 +1,23 @@
+From 5c7f9216704b5e378f34fd70346447bae1abc186 Mon Sep 17 00:00:00 2001
+From: Mohanapriya2828 <mohanapriya.jayabalan@psiog.com>
+Date: Thu, 25 Sep 2025 23:23:28 +0530
+Subject: [PATCH] Feature-a commit
+
+---
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.html b/index.html
+index 1eb7255..237537c 100644
+--- a/index.html
++++ b/index.html
+@@ -6,5 +6,6 @@
+ </head> 
+ <body> 
+   <p>Git Learning</p> 
++  <p>It helps to keep track of the code</p>
+ </body> 
+ </html>
+-- 
+2.50.1.windows.1
+
